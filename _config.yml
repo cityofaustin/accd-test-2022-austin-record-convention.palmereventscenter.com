@@ -14,14 +14,14 @@ utility_coordinator:
   name: Belinda Nash-Harris
   email: Belinda.Nash@austintexas.gov
   phone: 5124044203
-sales_manager:
-  name: Faith Ward
-  email: Faith.Ward@austintexas.gov
-  phone: 5124044210
 catering_manager:
   name: Kerry Craig
   email: kcraig@levyrestaurants.com
   phone: 5124044137
+it_coordinator:
+  name: Jason Perkins
+  email: jason.perkins@austintexas.gov
+  phone: 5124044089
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v0.4
 searchable: true
